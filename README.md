@@ -53,8 +53,7 @@
 | 英语      | 声音克隆   | 1343         | 855          |
 
 ## 演示
-【有声课件】
-https://github.com/anonymous-fwwb/a09/raw/refs/heads/main/src/video/%E5%9B%BE%E5%83%8F%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0.mp4
+【有声课件】src/video/图形的轴对称.mp4
 
 ## 更新日志
 1. 2025年4月18日优化文本转换函数，现在可以更准确的读数学公式和符号了。
