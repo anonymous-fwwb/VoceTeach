@@ -9,7 +9,7 @@
 
 ## 在线体验
 
-[TTS情感效果、声音克隆效果展示](https://anonymous-fwwb.github.io/voceteach.github.io/)
+[情感效果、声音克隆、有声课件展示](https://anonymous-fwwb.github.io/voceteach.github.io/)
 
 由于我们使用的是cpolar免费方案，没有固定域名，所以在比赛结果出来之前，我们每日至少更新一次体验网址。
 
