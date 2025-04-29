@@ -15,7 +15,7 @@
 
 体验网址（2025年4月29日11点21分可用）：https://14b92fb6.r8.cpolar.top/
 
-访问密码在PPT最后一页和视频末尾以及压缩包的文档里，建议使用PC浏览器（windows10/11 Chrome/Edge）访问。
+访问密码在PPT最后一页和视频末尾以及压缩包的文档里，建议使用PC浏览器（Windows10/11 Chrome/Edge）访问。
 
 ## To-Do List
 
