@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/68da594c-36df-4d12-a228-9d6756f70d7b)<div align="center">
     <h1>
     VoceTeach智能语音教育平台
     </h1>
@@ -13,7 +13,7 @@
 
 由于我们使用的是cpolar免费方案，没有固定域名，所以在比赛结果出来之前，我们每日至少更新一次体验网址。
 
-体验网址（2025年4月29日11点21分可用）：https://2a116b5a.r8.cpolar.top/
+体验网址（2025年5月2日10点17分可用）：https://28e9d299.r8.cpolar.top
 
 访问密码在PPT最后一页和视频末尾以及压缩包的文档里，建议使用PC浏览器（Windows10/11 Chrome/Edge）访问。
 
