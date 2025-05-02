@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68da594c-36df-4d12-a228-9d6756f70d7b)<div align="center">
+<div align="center">
     <h1>
     VoceTeach智能语音教育平台
     </h1>
