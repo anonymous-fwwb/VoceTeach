@@ -13,7 +13,7 @@
 
 由于我们使用的是cpolar免费方案，没有固定域名，所以在比赛结果出来之前，我们每日至少更新一次体验网址。
 
-体验网址：https://1e7e86ce.r8.cpolar.top
+体验网址：https://381c7a13.r8.cpolar.top
 
 访问密码在PPT最后一页和视频末尾以及压缩包的文档里，建议使用PC浏览器（Windows10/11 Chrome/Edge）访问。
 
