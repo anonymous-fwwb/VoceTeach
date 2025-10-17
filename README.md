@@ -11,20 +11,83 @@
 
 🥂[语音情感、声音克隆、有声课件、数字人展示](https://anonymous-fwwb.github.io/voceteach.github.io/)
 
-由于我们使用的是cpolar免费方案，没有固定域名，所以在比赛结果出来之前，我们每日至少更新一次体验网址。
-
-体验网址：https://381c7a13.r8.cpolar.top
-
-访问密码在PPT最后一页和视频末尾以及压缩包的文档里，建议使用PC浏览器（Windows10/11 Chrome/Edge）访问。
+暂时关闭体验入口。
 
 ## To-Do List
 
 - [ ] windows桌面端应用。
 - [ ] 微信小程序应用。
 - [ ] 针对教育场景优化的实时数字人。
-- [ ] 向企业提交所有源码。
 
-我们正在优化web体验和各个功能模块，有任何建议或bug请在Issues区发表。
+有任何建议或bug请在Issues区发表。
+
+# 总览
+
+## 用户群体
+
+![TTS推理](src/fig/user.png)
+
+## 创新展示
+
+### TTS、零样本克隆推理概述
+
+![TTS推理](src/fig/1.png)
+
+### 有声PPT流程
+
+![PPT流程](src/fig/PPT.png)
+
+## 功能介绍
+
+![TTS推理](src/fig/all.png)
+
+
+
+
+
+# 界面介绍
+
+## 主页
+
+![](src/figs/index.png)
+
+## 语音合成&语音克隆![tts](src/figs/tts.png)
+
+## 有声课件制作
+
+![PPT](src/figs/ppt1.png)
+
+![PPT](src/figs/ppt2.png)
+
+![PPT](src/figs/ppt3.png)
+
+![PPT](src/figs/ppt4.png)
+
+### 字幕制作
+
+![字幕功能](src/figs/sub1.png)
+
+![字幕功能](src/figs/sub2.png)
+
+![字幕功能](src/figs/sub3.png)
+
+![字幕功能](src/figs/sub4.png)
+
+## 声音转换页面
+
+![声音转换](src/figs/voce1.png)
+
+## 数字人生成页面
+
+![声音转换](src/figs/voce2.png)
+
+![数字人](src/figs/dig1.png)
+
+![数字人](src/figs/dig2.png)
+
+![数字人](src/figs/dig3.png)
+
+![数字人](src/figs/dig4.png)
 
 ## 响应速度测试
 
@@ -73,4 +136,5 @@ VoxBox(5.82 TB):https://github.com/SparkAudio/VoxBox
 
 ## 公网web端已知bug
 - [x] 有声课件勾选高清字幕模式导出视频时，会直接跳转到视频播放页面，影响体验。
-- [ ] 有声课件高级AI的个性化提示词后端逻辑有些复杂，暂时禁用编辑AI提示词功能，后续会加上。
+- [x] 有声课件高级AI的个性化提示词后端逻辑有些复杂，暂时禁用编辑AI提示词功能，后续会加上。
+
