@@ -79,8 +79,6 @@
 
 ## 数字人生成页面
 
-![声音转换](src/figs/voce2.png)
-
 ![数字人](src/figs/dig1.png)
 
 ![数字人](src/figs/dig2.png)
